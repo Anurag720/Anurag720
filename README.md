@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anurag720&icon=8&color=11)](https://visitcount.itsvg.in)
