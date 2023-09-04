@@ -1,5 +1,5 @@
 <a href="https://codegrills.in">
-    <img src="https://img.freepik.com/free-vector/cartoon-galaxy-background_23-2148973051.jpg" alt="MasterHead" width="1200" height="300">
+    <img src="https://wallpaperaccess.com/full/3414990.jpg" width="1200" height="300">
   </a>
   
   
