@@ -35,8 +35,8 @@
   <p>
    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
     
-   ✌️ &emsp; Enjoy to explore new technologies and plateform <br/><br/>
-   ❤️ &emsp; Love to  writing codes and learning new features<br/><br/>
+   ✌️ &emsp; Enjoy to explore new technologies and plateforms <br/><br/>
+   ❤️ &emsp; Love to  write codes and learning new features<br/><br/>
    📧 &emsp; Reach me anytime: anuragbaghel746@gmail.com<br/><br/>
    💬 &emsp; Ask me anything
   
