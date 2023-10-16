@@ -1,6 +1,7 @@
 <a href="https://codegrills.in">
-    <img src="[https://i.pinimg.com/originals/f6/9a/98/f69a983fb6ae0f701c053d55d71f5a84.gif]" width="1200" height="300">
+    <img src="https://i.pinimg.com/originals/f6/9a/98/f69a983fb6ae0f701c053d55d71f5a84.gif" width="1200" height="300">
 </a>
+
 
 <!-- Intro  -->
 <h3 align="center">
